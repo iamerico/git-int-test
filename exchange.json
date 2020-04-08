@@ -1,1 +1,8 @@
-{"main":"git-int-test.raml","name":"git-int-test","classifier":"raml-fragment","tags":["trait"]}
+{
+  "main": "git-int-test.raml",
+  "name": "git-int-test",
+  "classifier": "raml-fragment",
+  "tags": [
+    "trait"
+  ]
+}
